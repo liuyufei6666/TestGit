@@ -18,7 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //hello world
-    ///我改改改Git
+    //我已经更改了这几个版本
+    //BranchTwo又一次更改
+    //BranchThree Rebase版本
 }
 
 - (void)didReceiveMemoryWarning {
