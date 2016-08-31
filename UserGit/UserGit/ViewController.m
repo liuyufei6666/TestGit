@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //当前为主分支
+    //当前为开发分支
 }
 
 - (void)didReceiveMemoryWarning {
